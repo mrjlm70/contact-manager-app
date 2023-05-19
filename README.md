@@ -1,9 +1,10 @@
 <div dir="rtl">
-ابتدا پوشه سرور را در لوکال هاست خود اجرا کنید
+First open server directory & 
 <p>
 npm i 
 </br>
 npm start
 </p>
+Next open website:
 https://mrjlm70.github.io/contact-manager-app/
 </div>
