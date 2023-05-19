@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div>
 First open server directory & 
 <p>
 npm i 
